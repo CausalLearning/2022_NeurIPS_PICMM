@@ -62,7 +62,7 @@ If you find our work useful for your research, please consider citing the follow
 
 ```bibtex
 @inproceedings{xia2022pluralistic,
-  title={Pluralistic Image Completion with Probabilistic Mixture-of-Experts},
+  title={Pluralistic Image Completion with Gaussian Mixture Models},
   author={Xia, Xiaobo and Yang, Wenhao and Ren, Jie and Li, Yewen and Zhan, Yibing and Han, Bo and Liu, Tongliang},
   booktitle={NeurIPS},
   year={2022}
