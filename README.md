@@ -2,7 +2,7 @@
 
 <img src='imgs/intro.png' width='60%'/>
 
-### [Paper (ArXiv)](https://arxiv.org/pdf/2205.09086.pdf) | Pre-trained Models (coming soon) | Supplemental Material (coming soon)
+### [Paper](https://openreview.net/pdf?id=wuunqp9KVw) 
 
 **This repository is the official pytorch implementation of our NeurIPS 2022 paper, *Pluralistic Image Completion with Gaussian Mixture Models*.**
 
